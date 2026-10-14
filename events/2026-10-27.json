@@ -6,5 +6,6 @@
   "abstract": "Data-driven decisions often draw on several related datasets and complementary knowledge about deployment uncertainty. We fuse this information in distributionally robust optimization by constructing one ambiguity set for each dataset or uncertainty description and optimizing against their intersection. By restricting functional decision rules in a dual reformulation, we obtain a hierarchy of approximations that decompose across ambiguity sets and dominate standard aggregation-based relaxations. We establish tightness conditions and derive finite-dimensional formulations amenable to first-order methods under optimal transport and $\\phi$-divergence ambiguity sets. Experiments on portfolio and newsvendor problems demonstrate improved out-of-sample performance and scalability.",
   "date": "2026-10-27",
   "start_time": "11:45",
-  "end_time": "13:00"
+  "end_time": "13:00",
+  "location": "ODY 003"
 }
